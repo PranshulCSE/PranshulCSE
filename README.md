@@ -1,16 +1,227 @@
-## Hi there 👋
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Pranshul+👋;Aspiring+Software+Development+Engineer;MERN+Stack+Developer;Building+Scalable+Web+Applications;Consistent+Learner+📚+%7C+Problem+Solver+🧠" />
+</p>
 
-<!--
-**PranshulCSE/PranshulCSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 👨‍💻 Pranshul
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Aspiring Software Development Engineer | MERN Stack Developer
+
+I am an **MCA student and passionate developer** focused on building **scalable web applications and efficient backend systems**.
+
+My main interests lie in:
+
+🌐 Full Stack Web Development
+⚙️ Backend Engineering
+🧠 Data Structures & Algorithms
+🏗 Scalable System Design
+
+I strongly believe in:
+
+✨ Consistency in learning
+🧠 Deep analytical thinking
+📚 Continuous improvement
+
+My goal is to become a **highly skilled Software Development Engineer capable of designing robust software systems.**
+
+---
+
+# 🚀 About Me
+
+🎓 MCA Student with strong **Computer Science Fundamentals**
+
+💻 Focused on becoming a **Software Development Engineer**
+
+🌐 Specializing in **MERN Stack Development**
+
+📚 Currently learning **System Design & Backend Architecture**
+
+🧠 Practicing **Data Structures & Algorithms regularly**
+
+⚡ Interested in building **scalable backend systems and modern web applications**
+
+📈 Dedicated to **consistent growth and technical excellence**
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,express,mongodb,html,css,tailwind,bootstrap,git,github,vscode,postman" />
+
+</p>
+
+### 👨‍💻 Programming Languages
+
+C++ • JavaScript • **Core Java** • HTML • CSS
+
+### 🎨 Frontend Development
+
+React.js • **Tailwind CSS** • **Bootstrap** • Responsive UI • Modern JavaScript (ES6+)
+
+### ⚙️ Backend Development
+
+Node.js • Express.js • REST API Development
+
+### 🗄 Database
+
+MongoDB
+
+### 🤖 AI Assisted Development Tools
+
+* Cursor
+* Visual Studio Code
+* Antigravity
+
+### 🧰 Developer Tools
+
+Git • GitHub • Postman • Terminal
+
+---
+
+# 📚 Currently Learning
+
+📌 Advanced **MERN Stack Architecture**
+
+📌 **Backend Performance Optimization**
+
+📌 **System Design Fundamentals**
+
+📌 **Authentication & Security**
+
+📌 **Scalable API Development**
+
+📌 **Clean Code and Software Engineering Practices**
+
+---
+
+# 💡 Development Philosophy
+
+I focus on writing **clean, scalable, and maintainable code** while following modern engineering practices.
+
+✨ Writing modular and reusable components
+📂 Maintaining clear project architecture
+🔧 Using version control effectively
+📈 Continuously improving problem solving ability
+
+> **Consistency + Curiosity + Clean Code = Great Software**
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PranshulCSE&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PranshulCSE&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranshulCSE&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+---
+
+# 🧠 LeetCode Statistics
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/Pranshul_Threja?theme=dark&font=Fira%20Code&ext=heatmap" />
+
+</p>
+
+---
+
+# 🧠 Data Structures & Algorithms
+
+I actively practice **Data Structures and Algorithms** on
+**LeetCode** to strengthen my problem-solving skills.
+
+Key topics I regularly work on:
+
+* Arrays & Strings
+* Linked Lists
+* Recursion
+* Trees & Binary Trees
+* Graph Algorithms
+* Dynamic Programming
+* Sliding Window
+* Greedy Algorithms
+* Backtracking
+
+> Strong **DSA fundamentals** are essential for building efficient and scalable software systems.
+
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=PranshulCSE&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranshulCSE&theme=tokyo-night"/>
+
+---
+
+# 🐍 Contribution Snake
+
+![snake animation](https://github.com/PranshulCSE/PranshulCSE/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 📌 Featured Projects
+
+🚀 MERN Stack Applications
+⚙️ Scalable Backend APIs
+🧠 Data Structures & Algorithms Implementations
+
+---
+
+# 🎯 Career Objective
+
+To work as a **Software Development Engineer** where I can:
+
+🚀 Build scalable production applications
+🧠 Solve complex engineering problems
+📚 Continuously learn modern technologies
+🌍 Contribute to impactful software products
+
+---
+
+# 🤝 Connect With Me
+
+📧 Email
+**[threjapranshul@gmail.com](mailto:threjapranshul@gmail.com)**
+
+💼 LinkedIn
+**[www.linkedin.com/in/pranshul-threja-4a278237a](http://www.linkedin.com/in/pranshul-threja-4a278237a)**
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=PranshulCSE&label=Profile%20views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+⭐ Always open to **learning opportunities, collaboration, and impactful software projects.**
