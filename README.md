@@ -110,28 +110,6 @@ I focus on writing **clean, scalable, and maintainable code** while following mo
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PranshulCSE&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PranshulCSE&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranshulCSE&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
----
 
 # 🧠 LeetCode Statistics
 
@@ -176,12 +154,6 @@ Key topics I regularly work on:
 # 📈 GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PranshulCSE&theme=tokyo-night"/>
-
----
-
-# 🐍 Contribution Snake
-
-![snake animation](https://github.com/PranshulCSE/PranshulCSE/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
