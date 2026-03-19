@@ -35,8 +35,6 @@ My goal is to become a **highly skilled Software Development Engineer capable of
 
 🌐 Specializing in **MERN Stack Development**
 
-📚 Currently learning **System Design & Backend Architecture**
-
 🧠 Practicing **Data Structures & Algorithms regularly**
 
 ⚡ Interested in building **scalable backend systems and modern web applications**
