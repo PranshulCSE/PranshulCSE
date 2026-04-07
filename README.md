@@ -45,39 +45,38 @@ My goal is to become a **highly skilled Software Development Engineer capable of
 
 # 🛠 Tech Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,express,mongodb,html,css,tailwind,bootstrap,git,github,vscode,postman" />
-
-</p>
-
 ### 👨‍💻 Programming Languages
-
-C++ • JavaScript • **Core Java** • HTML • CSS
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,java,js,html,css" />
+</p>
+C++ • JavaScript • Core Java • HTML • CSS
 
 ### 🎨 Frontend Development
-
-React.js • **Tailwind CSS** • **Bootstrap** • Responsive UI • Modern JavaScript (ES6+)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+</p>
+React.js • Tailwind CSS • Bootstrap • Responsive UI • Modern JavaScript (ES6+)
 
 ### ⚙️ Backend Development
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 Node.js • Express.js • REST API Development
 
 ### 🗄 Database
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 MongoDB
 
 ### 🤖 AI Assisted Development Tools
+Cursor • Claude • Antigravity
+### 🧰 IDEs & Developer Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+</p>
+Visual Studio Code • Git • GitHub • Postman • Terminal
 
-* Cursor
-* Visual Studio Code
-* Antigravity
-
-### 🧰 Developer Tools
-
-Git • GitHub • Postman • Terminal
-
----
 
 # 📚 Currently Learning
 
@@ -108,21 +107,17 @@ I focus on writing **clean, scalable, and maintainable code** while following mo
 
 ---
 
-
 # 🧠 LeetCode Statistics
 
 <p align="center">
-
 <img src="https://leetcard.jacoblin.cool/Pranshul_Threja?theme=dark&font=Fira%20Code&ext=heatmap" />
-
 </p>
 
 ---
 
 # 🧠 Data Structures & Algorithms
 
-I actively practice **Data Structures and Algorithms** on
-**LeetCode** to strengthen my problem-solving skills.
+I actively practice **Data Structures and Algorithms** on **LeetCode** to strengthen my problem-solving skills.
 
 Key topics I regularly work on:
 
@@ -138,13 +133,10 @@ Key topics I regularly work on:
 
 > Strong **DSA fundamentals** are essential for building efficient and scalable software systems.
 
-
 # 🔥 Contribution Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=PranshulCSE&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -187,9 +179,7 @@ To work as a **Software Development Engineer** where I can:
 # 👀 Profile Visitors
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=PranshulCSE&label=Profile%20views&color=0e75b6&style=flat"/>
-
 </p>
 
 ---
