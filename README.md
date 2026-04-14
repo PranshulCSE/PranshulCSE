@@ -4,7 +4,7 @@
 
 ---
 
-# 👨‍💻 Pranshul
+# 👨‍💻 Pranshul Threja
 
 ### 🚀 Aspiring Software Development Engineer | MERN Stack Developer
 
