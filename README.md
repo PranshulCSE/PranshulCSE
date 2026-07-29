@@ -1,191 +1,153 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=Hi%20There,%20I'm%20Pranshul%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20SDE%20%7C%20MERN%20%2B%20AI%20Developer&descAlignY=58&descSize=18" width="100%"/>
+
 <p align="center">
+
   <img src="ChatGPT Image Jul 24, 2026, 09_48_19 AM.png" alt="Pranshul Banner" width="100%">
+
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Pranshul+👋;Aspiring+Software+Development+Engineer;MERN+Stack+Developer;Building+Scalable+Web+Applications;Consistent+Learner+📚;Problem+Solver+🧠" />
-</p>
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+GTECH+Code+%F0%9F%9A%80+a+Coding+Judge;Integrating+Gemini+AI+into+Real+Products+%F0%9F%A4%96;MERN+Stack+%2B+Agentic+AI+Systems;330%2B+DSA+Problems+Solved+%F0%9F%A7%A0;Always+Shipping%2C+Always+Learning+%E2%9C%A8" />
+
+<br>
+
+<a href="mailto:threjapranshul@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="http://www.linkedin.com/in/pranshul-threja-4a278237a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/PranshulCSE"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://leetcode.com/pranshul-threja"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+
+</div>
 
 ---
 
-# 👨‍💻 Pranshul Threja
+## 👨‍💻 About Me
 
-### 🚀 Aspiring Software Development Engineer | MERN Stack Developer
+I'm an **MCA student (2025–2027)** at Geeta University, Panipat — **1st Semester Topper (SGPA 9.33, CGPA 9.20)** — building my way toward becoming a strong **Software Development Engineer**.
 
-I am an **MCA student and passionate developer** focused on building **scalable web applications and efficient backend systems**.
+My core focus right now: **MERN stack + practical AI integration** — not just using AI tools, but shipping products where **Gemini API, agentic workflows, and LLM-powered features are core parts of the architecture**.
 
-My main interests lie in:
-
-🌐 Full Stack Web Development
-⚙️ Backend Engineering
-🧠 Data Structures & Algorithms
-🏗 Scalable System Design
-
-I strongly believe in:
-
-✨ Consistency in learning
-🧠 Deep analytical thinking
-📚 Continuous improvement
-
-My goal is to become a **highly skilled Software Development Engineer capable of designing robust software systems.**
+- 🔭 Currently building **GTECH Code** — a full LeetCode-style online judge
+- 🤖 Deep into **AI-powered development** — Gemini agents, chatbots, AI-assisted coding platforms
+- 🌱 Learning **system design, backend performance, and API security**
+- 💡 **330+ problems solved** across LeetCode & GeeksforGeeks
+- 📫 Reach me at **threjapranshul@gmail.com**
 
 ---
 
-# 🚀 About Me
+## 🤖 AI-Powered Development
 
-🎓 MCA Student with strong **Computer Science Fundamentals**
+<div align="center">
+<img src="https://skillicons.dev/icons?i=gemini" height="45"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Judge0_API-4B0082?style=for-the-badge"/>
+</div>
 
-💻 Focused on becoming a **Software Development Engineer**
+<br>
 
-🌐 Specializing in **MERN Stack Development**
-
-🧠 Practicing **Data Structures & Algorithms regularly**
-
-⚡ Interested in building **scalable backend systems and modern web applications**
-
-📈 Dedicated to **consistent growth and technical excellence**
-
----
-
-# 🛠 Tech Stack
-
-### 👨‍💻 Programming Languages
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,java,js,html,css" />
-</p>
-C++ • JavaScript • Core Java • HTML • CSS
-
-### 🎨 Frontend Development
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
-</p>
-React.js • Tailwind CSS • Bootstrap • Responsive UI • Modern JavaScript (ES6+)
-
-### ⚙️ Backend Development
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-Node.js • Express.js • REST API Development
-
-### 🗄 Database
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-MongoDB
-
-### 🤖 AI Assisted Development Tools
-Cursor • Claude • Antigravity
-### 🧰 IDEs & Developer Tools
-<p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
-</p>
-Visual Studio Code • Git • GitHub • Postman • Terminal
-
-
-# 📚 Currently Learning
-
-📌 Advanced **MERN Stack Architecture**
-
-📌 **Backend Performance Optimization**
-
-📌 **System Design Fundamentals**
-
-📌 **Authentication & Security**
-
-📌 **Scalable API Development**
-
-📌 **Clean Code and Software Engineering Practices**
+I actively build with AI as a core engineering tool, not a gimmick:
+- 🧠 **Agentic AI systems** — multi-agent CLI backends with dedicated task-specific agents (weather, crypto, GitHub, news)
+- 💬 Built **"Nandi"** — a conversational AI chatbot with an agentic loop and quick-reply UX
+- ⚡ Use **Gemini** to power in-app hints, AI explanations, and content generation
+- 🛠 Use **Cursor & Claude** daily to accelerate full-stack development without compromising code quality
 
 ---
 
-# 💡 Development Philosophy
+## 🛠 Tech Stack
 
-I focus on writing **clean, scalable, and maintainable code** while following modern engineering practices.
+<div align="center">
 
-✨ Writing modular and reusable components
-📂 Maintaining clear project architecture
-🔧 Using version control effectively
-📈 Continuously improving problem solving ability
+<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,html,css" height="50"/>
+<br><br>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap" height="50"/>
+<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" height="50"/>
+<br><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" height="50"/>
 
-> **Consistency + Curiosity + Clean Code = Great Software**
-
----
-
-# 🧠 LeetCode Statistics
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/Pranshul_Threja?theme=dark&font=Fira%20Code&ext=heatmap" />
-</p>
+</div>
 
 ---
 
-# 🧠 Data Structures & Algorithms
+## 📌 Featured Projects
 
-I actively practice **Data Structures and Algorithms** on **LeetCode** to strengthen my problem-solving skills.
+<div align="center">
 
-Key topics I regularly work on:
+<!-- <a href="https://github.com/PranshulCSE/gtech-code">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=PranshulCSE&repo=gtech-code&theme=tokyonight&hide_border=true" />
+</a> -->
 
-* Arrays & Strings
-* Linked Lists
-* Recursion
-* Trees & Binary Trees
-* Graph Algorithms
-* Dynamic Programming
-* Sliding Window
-* Greedy Algorithms
-* Backtracking
+</div>
 
-> Strong **DSA fundamentals** are essential for building efficient and scalable software systems.
+### 🏆 GTECH Code — AI-Powered Online Judge
+A **LeetCode-style competitive coding platform**, my flagship project, built during the SVS Techforge internship.
+- ⚙️ **Stack:** MERN + Redis + Judge0 API + **Gemini AI**
+- 🧪 Real-time code execution & judging via Judge0 with async polling and queueing
+- 🤖 **AI-generated hints and explanations** powered by Gemini
+- 🔐 Custom authentication system built from scratch
+- 🛠 Solved gnarly backend bugs: Judge0 polling races, Mongoose enum mismatches, cross-module import issues
 
-# 🔥 Contribution Streak
+### 🕉️ SAJSSM — Web Platform & "Nandi" AI Chatbot
+Built for **Shri Amarnath JanShakti Sewa Mandal**, a Karnal-based non-profit running langar seva at the Amarnath Yatra.
+- 🤖 **Multi-agent AI CLI backend** (Node.js + Gemini) — weather, crypto, GitHub & news agents
+- 💬 **"Nandi"** — an agentic chatbot on the frontend with quick-reply chips and custom branded UI
+- 📄 Supported official correspondence & document formatting for the organization
 
-<p align="center">
+> 🚧 More AI-integrated builds coming soon — stay tuned!
+
+---
+
+## 🧠 Data Structures & Algorithms
+
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/pranshul_threja?theme=dark&font=Fira%20Code&ext=heatmap" />
+</div>
+
+**330+ problems solved** across **LeetCode** (`pranshul_threja`) and **GeeksforGeeks**.
+
+<div align="center">
+
+`Arrays & Strings` • `Linked Lists` • `Recursion` • `Trees & Graphs` • `Dynamic Programming` • `Sliding Window` • `Greedy` • `Backtracking`
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=PranshulCSE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranshulCSE&layout=compact&theme=tokyonight&hide_border=true"/> -->
+
 <img src="https://streak-stats.demolab.com?user=PranshulCSE&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PranshulCSE&theme=tokyo-night"/>
 
----
-
-# 📌 Featured Projects
-
-🚀 MERN Stack Applications
-⚙️ Scalable Backend APIs
-🧠 Data Structures & Algorithms Implementations
+</div>
 
 ---
 
-# 🎯 Career Objective
+## 🎯 Career Objective
 
-To work as a **Software Development Engineer** where I can:
+To work as a **Software Development Engineer**, building scalable production systems that thoughtfully integrate AI — solving real engineering problems while continuously leveling up on modern technologies.
 
-🚀 Build scalable production applications
-🧠 Solve complex engineering problems
-📚 Continuously learn modern technologies
-🌍 Contribute to impactful software products
+> **Consistency + Curiosity + Clean Code + AI = Great Software**
 
 ---
 
-# 🤝 Connect With Me
+<div align="center">
 
-📧 Email
-**[threjapranshul@gmail.com](mailto:threjapranshul@gmail.com)**
+📧 [threjapranshul@gmail.com](mailto:threjapranshul@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](http://www.linkedin.com/in/pranshul-threja-4a278237a) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/PranshulCSE)
 
-💼 LinkedIn
-**[www.linkedin.com/in/pranshul-threja-4a278237a](http://www.linkedin.com/in/pranshul-threja-4a278237a)**
-
----
-
-# 👀 Profile Visitors
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=PranshulCSE&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
 
----
+⭐ **Always open to learning opportunities, collaboration, and impactful AI + software projects.**
 
-⭐ Always open to **learning opportunities, collaboration, and impactful software projects.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=100&section=footer" width="100%"/>
+
+</div>
