@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="ChatGPT Image Jul 24, 2026, 09_48_19 AM.png" alt="Pranshul Banner" width="100%">
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Pranshul+👋;Aspiring+Software+Development+Engineer;MERN+Stack+Developer;Building+Scalable+Web+Applications;Consistent+Learner+📚;Problem+Solver+🧠" />
 </p>
 
