@@ -15,9 +15,9 @@
 <br>
 
 <a href="mailto:threjapranshul@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="http://www.linkedin.com/in/pranshul-threja-4a278237a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="http://www.linkedin.com/in/pranshul132001"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/PranshulCSE"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://leetcode.com/pranshul-threja"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+<a href="https://leetcode.com/pranshul_threja"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
 
 </div>
 
@@ -142,7 +142,7 @@ To work as a **Software Development Engineer**, building scalable production sys
 
 <div align="center">
 
-📧 [threjapranshul@gmail.com](mailto:threjapranshul@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](http://www.linkedin.com/in/pranshul-threja-4a278237a) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/PranshulCSE)
+📧 [threjapranshul@gmail.com](mailto:threjapranshul@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](http://www.linkedin.com/in/pranshul132001) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/PranshulCSE)
 
 <img src="https://komarev.com/ghpvc/?username=PranshulCSE&label=Profile%20views&color=0e75b6&style=flat"/>
 
