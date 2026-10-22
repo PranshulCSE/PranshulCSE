@@ -1,153 +1,133 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=Hi%20There,%20I'm%20Pranshul%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20SDE%20%7C%20MERN%20%2B%20AI%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0e4429,100:39d353&height=150&section=header&text=PRANSHUL%20THREJA&fontSize=44&fontColor=e6edf3&fontAlignY=42&desc=MERN%20%2B%20AI%20DEVELOPER%20%7C%20ASPIRING%20SDE&descAlignY=68&descSize=16&descColor=39d353" width="100%"/>
 
-<p align="center">
-
-  <img src="ChatGPT Image Jul 24, 2026, 09_48_19 AM.png" alt="Pranshul Banner" width="100%">
-
-</p>
-
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+GTECH+Code+%F0%9F%9A%80+a+Coding+Judge;Integrating+Gemini+AI+into+Real+Products+%F0%9F%A4%96;MERN+Stack+%2B+Agentic+AI+Systems;330%2B+DSA+Problems+Solved+%F0%9F%A7%A0;Always+Shipping%2C+Always+Learning+%E2%9C%A8" />
-
-<br>
-
-<a href="mailto:threjapranshul@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="http://www.linkedin.com/in/pranshul132001"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/PranshulCSE"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://leetcode.com/pranshul_threja"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Building+GTECH+Code+%F0%9F%9A%80+a+Coding+Judge;Integrating+Gemini+AI+into+Real+Products+%F0%9F%A4%96;MERN+Stack+%2B+Agentic+AI+Systems;330%2B+DSA+Problems+Solved+%F0%9F%A7%A0;Always+Shipping%2C+Always+Learning+%E2%9C%A8" alt="typing"/>
 
 </div>
 
----
+<br>
 
-## 👨‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=E6EDF3&width=435&height=40&lines=WHO+I+AM" alt="WHO I AM"/>
 
-I'm an **MCA student (2025–2027)** at Geeta University, Panipat — **1st Semester Topper (SGPA 9.33, CGPA 9.20)** — building my way toward becoming a strong **Software Development Engineer**.
+> Hey, I'm **Pranshul** — an **MCA student (2025–2027)** at **Geeta University, Panipat** and **1st Semester Topper (SGPA 9.33 | CGPA ~9.20)**.
+> I build full-stack products with the **MERN stack** and ship **AI-powered features** (Gemini, agentic workflows, LLMs) as a core part of the architecture — not as a gimmick.
+> Currently targeting **SDE roles**.
 
-My core focus right now: **MERN stack + practical AI integration** — not just using AI tools, but shipping products where **Gemini API, agentic workflows, and LLM-powered features are core parts of the architecture**.
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=E6EDF3&width=435&height=40&lines=WHAT+I+DO" alt="WHAT I DO"/>
 
-- 🔭 Currently building **GTECH Code** — a full LeetCode-style online judge
-- 🤖 Deep into **AI-powered development** — Gemini agents, chatbots, AI-assisted coding platforms
-- 🌱 Learning **system design, backend performance, and API security**
-- 💡 **330+ problems solved** across LeetCode & GeeksforGeeks
-- 📫 Reach me at **threjapranshul@gmail.com**
+> - 🏆 Building **GTECH Code** — a LeetCode-style online judge (MERN + Redis + Judge0 + Gemini)
+> - 🤖 Agentic AI systems — multi-agent backends, chatbots, AI hints & explanations
+> - 🤝 **Co-Founder @ GenBots** — STEM robotics / IoT startup (thegenbots.in)
+> - 🎓 **Lead Organizer** of tech events & hackathons (SCSE, Geeta University) • Class Representative • Student Mentor
+> - 🧠 **330+ DSA problems** solved on LeetCode & GeeksforGeeks
+> - 🌱 Learning **system design, backend performance & API security**
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=E6EDF3&width=435&height=40&lines=VISION" alt="VISION"/>
 
-## 🤖 AI-Powered Development
+> Ship real products, solve real problems, and grow into an engineer who builds **scalable production systems that thoughtfully integrate AI**.
+> **Consistency + Curiosity + Clean Code + AI = Great Software.**
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=E6EDF3&width=435&height=40&lines=BEYOND+CODE" alt="BEYOND CODE"/>
+
+> Organizing hackathons, mentoring juniors, and building communities around tech. Always up for collabs on impactful **AI + software** projects.
+
+<br>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=gemini" height="45"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>&nbsp;
+
+<table>
+  <tr>
+    <th>LinkedIn</th>
+    <th>GitHub</th>
+    <th>Gmail</th>
+    <th>Website</th>
+    <th>LeetCode</th>
+  </tr>
+  <tr align="center">
+    <td><a href="http://www.linkedin.com/in/pranshul132001"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a></td>
+    <td><a href="https://github.com/PranshulCSE"><img src="https://skillicons.dev/icons?i=github" height="45"/></a></td>
+    <td><a href="mailto:threjapranshul@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a></td>
+    <td><a href="https://pranshulthreja.tech"><img src="https://img.icons8.com/fluency/48/domain.png" height="45"/></a></td>
+    <td><a href="https://leetcode.com/pranshul_threja"><img src="https://skillicons.dev/icons?i=leetcode" height="45"/></a></td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
+  <img alt="3D contribution graph" src="./profile-3d-contrib/profile-green-animate.svg" width="100%">
+</picture>
+
+</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=E6EDF3&width=435&height=40&lines=SKILL+SET" alt="SKILL SET"/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,html,css&perline=6" height="55"/>
+<br>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap&perline=6" height="55"/>
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis&perline=6" height="55"/>
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&perline=6" height="55"/>
+<br><br>
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
 <img src="https://img.shields.io/badge/Judge0_API-4B0082?style=for-the-badge"/>
-</div>
-
-<br>
-
-I actively build with AI as a core engineering tool, not a gimmick:
-- 🧠 **Agentic AI systems** — multi-agent CLI backends with dedicated task-specific agents (weather, crypto, GitHub, news)
-- 💬 Built **"Nandi"** — a conversational AI chatbot with an agentic loop and quick-reply UX
-- ⚡ Use **Gemini** to power in-app hints, AI explanations, and content generation
-- 🛠 Use **Cursor & Claude** daily to accelerate full-stack development without compromising code quality
-
----
-
-## 🛠 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,html,css" height="50"/>
-<br><br>
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap" height="50"/>
-<br><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" height="50"/>
-<br><br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" height="50"/>
 
 </div>
 
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<!-- <a href="https://github.com/PranshulCSE/gtech-code">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PranshulCSE&repo=gtech-code&theme=tokyonight&hide_border=true" />
-</a> -->
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=E6EDF3&width=435&height=40&lines=PROJECTS" alt="PROJECTS"/>
 
 ### 🏆 GTECH Code — AI-Powered Online Judge
-A **LeetCode-style competitive coding platform**, my flagship project, built during the SVS Techforge internship.
-- ⚙️ **Stack:** MERN + Redis + Judge0 API + **Gemini AI**
-- 🧪 Real-time code execution & judging via Judge0 with async polling and queueing
-- 🤖 **AI-generated hints and explanations** powered by Gemini
-- 🔐 Custom authentication system built from scratch
-- 🛠 Solved gnarly backend bugs: Judge0 polling races, Mongoose enum mismatches, cross-module import issues
+> My flagship project, built during my **SVS Techforge** internship. A LeetCode-style competitive coding platform.
+> - ⚙️ **Stack:** MERN • Redis • Judge0 API • Gemini AI
+> - 🧪 Real-time code execution & judging with async polling and queueing
+> - 🤖 AI-generated hints and explanations powered by Gemini
+> - 🔐 Custom authentication built from scratch
+>
+> [![Repo](https://img.shields.io/badge/View_Repo-39d353?style=for-the-badge&logo=github&logoColor=black)](https://github.com/PranshulCSE/gtech-code)
 
 ### 🕉️ SAJSSM — Web Platform & "Nandi" AI Chatbot
-Built for **Shri Amarnath JanShakti Sewa Mandal**, a Karnal-based non-profit running langar seva at the Amarnath Yatra.
-- 🤖 **Multi-agent AI CLI backend** (Node.js + Gemini) — weather, crypto, GitHub & news agents
-- 💬 **"Nandi"** — an agentic chatbot on the frontend with quick-reply chips and custom branded UI
-- 📄 Supported official correspondence & document formatting for the organization
+> Built for **Shri Amarnath JanShakti Sewa Mandal**, a non-profit running langar seva at the Amarnath Yatra.
+> - 🤖 Multi-agent AI CLI backend (Node.js + Gemini) — weather, crypto, GitHub & news agents
+> - 💬 **"Nandi"** — agentic chatbot with quick-reply chips and custom branded UI
 
-> 🚧 More AI-integrated builds coming soon — stay tuned!
+### 🤖 GenBots — STEM Robotics & IoT Startup
+> Co-founding **GenBots** (thegenbots.in), a Sonipat-based MSME startup bringing robotics and IoT learning to students.
 
----
-
-## 🧠 Data Structures & Algorithms
-
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/pranshul_threja?theme=dark&font=Fira%20Code&ext=heatmap" />
-</div>
-
-**330+ problems solved** across **LeetCode** (`pranshul_threja`) and **GeeksforGeeks**.
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=E6EDF3&width=435&height=40&lines=DSA+%26+STATS" alt="DSA & STATS"/>
 
 <div align="center">
 
-`Arrays & Strings` • `Linked Lists` • `Recursion` • `Trees & Graphs` • `Dynamic Programming` • `Sliding Window` • `Greedy` • `Backtracking`
+<img src="https://leetcard.jacoblin.cool/pranshul_threja?theme=dark&font=Fira%20Code&ext=heatmap" width="100%"/>
 
-</div>
+<br>
 
----
+`Arrays & Strings` • `Linked Lists` • `Recursion` • `Trees & Graphs` • `DP` • `Sliding Window` • `Greedy` • `Backtracking`
 
-## 📈 GitHub Stats
+<br><br>
 
-<div align="center">
+<img src="https://streak-stats.demolab.com?user=PranshulCSE&theme=github-dark-blue&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353"/>
 
-<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=PranshulCSE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranshulCSE&layout=compact&theme=tokyonight&hide_border=true"/> -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranshulCSE&theme=github-compact&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true" width="100%"/>
 
-<img src="https://streak-stats.demolab.com?user=PranshulCSE&theme=tokyonight&hide_border=true"/>
+<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranshulCSE&theme=tokyo-night"/>
+<img src="https://komarev.com/ghpvc/?username=PranshulCSE&label=Profile%20views&color=39d353&style=for-the-badge"/>
 
-</div>
-
----
-
-## 🎯 Career Objective
-
-To work as a **Software Development Engineer**, building scalable production systems that thoughtfully integrate AI — solving real engineering problems while continuously leveling up on modern technologies.
-
-> **Consistency + Curiosity + Clean Code + AI = Great Software**
-
----
-
-<div align="center">
-
-📧 [threjapranshul@gmail.com](mailto:threjapranshul@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](http://www.linkedin.com/in/pranshul132001) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/PranshulCSE)
-
-<img src="https://komarev.com/ghpvc/?username=PranshulCSE&label=Profile%20views&color=0e75b6&style=flat"/>
+<br><br>
 
 ⭐ **Always open to learning opportunities, collaboration, and impactful AI + software projects.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39d353,100:0d1117&height=80&section=footer" width="100%"/>
 
 </div>
