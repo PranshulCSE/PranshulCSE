@@ -20,7 +20,7 @@
 > - 🤖 Agentic AI systems — multi-agent backends, chatbots, AI hints & explanations
 > - 🤝 **Co-Founder @ GenBots** — STEM robotics / IoT startup (thegenbots.in)
 > - 🎓 **Lead Organizer** of tech events & hackathons (SCSE, Geeta University) • Class Representative • Student Mentor
-> - 🧠 **330+ DSA problems** solved on LeetCode & GeeksforGeeks
+> - 🧠 **350+ DSA problems** solved on LeetCode & GeeksforGeeks
 > - 🌱 Learning **system design, backend performance & API security**
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&color=E6EDF3&width=435&height=40&lines=VISION" alt="VISION"/>
